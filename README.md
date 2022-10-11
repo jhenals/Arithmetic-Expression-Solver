@@ -1,9 +1,9 @@
 # Arithmetic-Expression-Solver
 This is a simple application that uses Stack and GUI Interface of Java. 
 
-This is a university project for my Object Oriented Programming Course AA2021-2022
+**This is a university project for my Object Oriented Programming Course AA2021-2022
 
-3.Progetto POO - Valutazione di una espressione aritmetica intera con le priorità degli operatori della 
+(Progetto POO - Valutazione di una espressione aritmetica intera con le priorità degli operatori della 
 matematica
    * Premessa: Gli operandi sono interi senza segno. Gli operatori sono +,-,*,%,^ e valgono le usuali precedenze
 della matematica, cioè: π(^)>π(*,/,%)>π(+,-). A parità di priorità, si assume l’associatività a sinistra. 
@@ -43,4 +43,4 @@ immediatamente identificate mediante pattern matching della stringa espressione 
 un’espressione regolare che esprime la “corretta costituzione” (condizione necessaria) 
 dell’espressione aritmetica.
    
-   * GUI di interazione: Il progetto dovrebbe includere la messa a punto di una GUI amichevole di interazione
+   * GUI di interazione: Il progetto dovrebbe includere la messa a punto di una GUI amichevole di interazione)
