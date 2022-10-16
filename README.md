@@ -1,8 +1,34 @@
 # Arithmetic-Expression-Solver
+
+## Overview
 This is a simple application that uses Stack and GUI Interface of Java. 
 
-**This is a university project for my Object Oriented Programming Course AA2021-2022
+## To Read
+This is a university project for my Object-Oriented-Programming Course (AA 2020-2021) that's why the code is written in Italian Language. This project aims to apply our knowledge of the Stack Data Structure and the GUI interface of Java. The following files are already provided to us by our professor: 
+  * Stack.java
+  * AbstractStack.java
+  * StackConcatenato.java
+  
+Our task is to write a program that solves an Arethmetic Expression (example: (14+8)*(8-4)/((6-2*2)*(1+2)) ). We must take into consideration the PEMDAS rule in evaluating a math expression. Thus, the use of Stack is necessary for this program. The code I wrote is saved in _EvalExpr.java_ file.
 
+In addition, _EvalExprGUI.java_ provides a user-friendly interface tha will let the user to insert the expression and see the result with ease.
+
+## Screenshot
+This is the screenshot of the my application
+  ![image](https://user-images.githubusercontent.com/77573528/196045918-3c7d4e37-c524-46d5-be5a-1555b7323d13.png)
+
+
+## How to use
+* The user can insert the expression in the textbox:
+  ![image](https://user-images.githubusercontent.com/77573528/196045959-e444eed5-f736-4703-8841-36e2250239ff.png)
+  
+* Click _Vai_ to see the result in the textbox at the bottom:
+  ![image](https://user-images.githubusercontent.com/77573528/196046004-d212ca5c-e372-4035-b6ee-f7d3488a01f0.png)
+  
+* Click _Help_ button for more info.
+
+
+## Description
 (Progetto POO - Valutazione di una espressione aritmetica intera con le priorità degli operatori della 
 matematica
    * Premessa: Gli operandi sono interi senza segno. Gli operatori sono +,-,*,%,^ e valgono le usuali precedenze
